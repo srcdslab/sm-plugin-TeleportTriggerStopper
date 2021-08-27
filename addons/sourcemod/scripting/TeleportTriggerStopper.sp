@@ -14,7 +14,7 @@
 
 #include <sdktools>
 #include <sdkhooks>
-#include <colors_csgo>
+#include <multicolors>
 #pragma semicolon 1
 #pragma newdecls required
 
